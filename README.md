@@ -31,6 +31,32 @@ Feel free to explore my Datacamp profile to see the courses and projects I've co
 # Academic Background
 I hold a master's degree, as evidenced by my thesis focusing on the application of data analysis techniques in healthcare. This thesis demonstrates my proficiency in analyzing small datasets and effectively communicating findings to stakeholders. However, I acknowledge the need to enhance my programming and technical skills to tackle larger datasets and complex projects.
 
+# Projects Showcase
+
+### Metal Classifier Project
+- **Description**: This project demonstrates my proficiency in deep learning and data scraping. It involves training a deep learning model to classify metal music samples into different subgenres using mel spectrograms. The project also includes exploratory data analysis and validation methods.
+- **Link**: [Metal Classifier Project](https://github.com/MaartenKnaepen/metal-classifier)
+
+### Solemates
+- **Description**: Solemates is a project where I tackled the challenge of imbalanced data by training an XGBoost model. I conducted extensive exploratory data analysis (EDA) and deployed the model on Streamlit for interactive visualization.
+- **Link**: [Solemates Project](https://github.com/MaartenKnaepen/SoleMates)
+
+### Project Wiwino
+- **Description**: Project Wiwino involved exploratory data analysis (EDA) on a Vivino dataset along with a presentation of the results. This project showcases my ability to derive insights from data and effectively communicate findings.
+- **Link**: [Project Wiwino](https://github.com/MaartenKnaepen/wiwino)
+
+### Image Generator and Generate Art
+- **Description**: These projects focus on experimenting with Deep Convolutional Generative Adversarial Networks (DCGAN) for image generation. They highlight my interest and exploration in generative models.
+- **Links**: [Image Generator](https://github.com/MaartenKnaepen/image-generator) and [Generate Art](https://github.com/MaartenKnaepen/generate-art)
+
+### Immo-Eliza
+- **Description**: Immo-Eliza is a series of repositories related to a project involving scraping data from Immoweb, analyzing it, generating models, and eventually deploying them. These repositories showcase my end-to-end project development skills.
+- **Links**: [Immo-Eliza Deployment](https://github.com/MaartenKnaepen/immo-eliza-scraping-Qbicle) and [Immo-Eliza Scraping](https://github.com/MaartenKnaepen/immo-eliza-scraping-Qbicle)
+
+### Wikipedia Scraper and Openspace Organizer
+- **Description**: Wikipedia Scraper was my first scraping project, while Openspace Organizer was the first code I ever wrote. They represent my journey into coding and learning new technologies.
+- **Links**: [Wikipedia Scraper](https://github.com/MaartenKnaepen/2-Wikipedia-Scraper) and [Openspace Organizer](https://github.com/MaartenKnaepen/1-OpenSpace-Seating-Arrangement)
+
 # Future Aspirations
 Upon completing the AI and Data Science course at BeCode, I aspire to pursue roles that align with my passion and expertise. The job offer detailed in this document perfectly encapsulates the type of work I envision myself doing post-graduation. With the technical skills acquired during the training, I am confident in my ability to excel in this role and contribute meaningfully to the organization's objectives.
 
