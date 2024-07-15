@@ -1,37 +1,58 @@
-Dear Visitor,
+# 👋 Hey there
 
-Welcome to my GitHub profile! Here you'll find a glimpse into my journey, aspirations, and the projects that drive my passion for data science and artificial intelligence.
+Welcome to the crossroads of biomedical science and data!
 
-# Introduction
-My name is Maarten, and I'm on a mission to transition into a career where I can leverage data science and AI to make impactful contributions, particularly in the realm of healthcare. This document provides additional context to my motivation to pursue the AI and Data Science course at BeCode, as well as insights into my background, skills, and future aspirations.
+Here you can follow all my practical and personal projects as I transition into the world of data science and AI.
 
-# Background
-Throughout my career, I've found myself gravitating towards managerial roles due to my aptitude for leadership and strategic thinking. However, my passion lies in the technical aspects of data science and AI. You can delve into my CV to see how my roles have consistently involved managing people, but my heart yearns for more hands-on technical work.
+I'm currently enhancing my Machine Learning and Computer Vision skills, with a keen interest in industrial applications.
 
-# Motivation
-The prospect of working on innovative projects at the intersection of healthcare and technology excites me immensely. Two specific projects have sparked my interest and serve as beacons guiding my journey:
+## 💼 Professional
 
-## Cardiac Monitoring with Headphone Technology
-I'm fascinated by the potential of using headphones to measure heart rate and differentiate between various cardiac irregularities. The project showcased by Google researchers using audioplethysmography (APG) presents a promising avenue for non-invasive remote patient monitoring, potentially revolutionizing healthcare.
-
-
-[read more](https://cardiovascularbusiness.com/topics/patient-care/remote-patient-monitoring/google-noise-canceling-headphones-heart-health)
-
-## Deep Learning for Autism Spectrum Disorder Prediction
-The utilization of deep learning techniques to analyze genetic variants associated with autism spectrum disorder (ASD) exemplifies the transformative power of AI in healthcare. This project underscores the importance of leveraging data science to unravel the complexities of multifaceted disorders.
-
-
-[read more](https://medinform.jmir.org/2021/4/e24754)
-
-# Learning Journey
-I am deeply committed to continuous learning and improvement in the field of data science and AI. My dedication is evident from my achievements on Datacamp, where I consistently ranked in the top 1% of learners and maintained a longest daily learning streak of 96 days.
-
-Feel free to explore my Datacamp profile to see the courses and projects I've completed, showcasing my ability to apply data science skills to real-world challenges.
-
-# Academic Background
-I hold a master's degree, as evidenced by my thesis focusing on the application of data analysis techniques in healthcare. This thesis demonstrates my proficiency in analyzing small datasets and effectively communicating findings to stakeholders. However, I acknowledge the need to enhance my programming and technical skills to tackle larger datasets and complex projects.
+* Currently a Junior Data Scientist @BeCode.org
+* Academic background in Biomedical Sciences
+* Extensive experience in data management and clinical trials
+* Always eager to learn and grow
 
 # Projects Showcase
+
+### CellScope
+
+- **Description**: CellScope is an advanced project that demonstrates my expertise in computer vision, machine learning, and healthcare applications. It's designed to assist in the identification and analysis of white blood cells in peripheral blood smear images. Key features include:
+  - White Blood Cell Detection using object detection models (YOLO)
+  - White Blood Cell Classification into different types (basophils, eosinophils, lymphocytes, monocytes, and neutrophils) using fastai
+  - Comprehensive model evaluation metrics including confusion matrices, precision-recall curves, and F1 curves
+  - User-friendly interface for image upload and analysis
+
+- **Technologies Used**: YOLO, fastai, Streamlit, Python, Hugging Face Model Hub
+
+- **Live Demo**: [CellScope App](https://cellscope.streamlit.app/)
+
+- **GitHub Repository**: [CellScope](https://github.com/MaartenKnaepen/CellScope)
+
+- **Model Repositories**:
+  - [Detection Model on Hugging Face](https://huggingface.co/MaartenKnaepen/cellscope-detection)
+  - [Identification Model on Hugging Face](https://huggingface.co/MaartenKnaepen/cellscope-identification)
+
+This project showcases my ability to develop end-to-end machine learning solutions for real-world problems, particularly in the medical field. It demonstrates my skills in implementing complex computer vision models, creating intuitive user interfaces, and deploying machine learning applications.
+
+### Chess Tutor Chatbot
+
+- **Description**: This project showcases my skills in natural language processing, vector databases, and application deployment. I developed an interactive chatbot using OpenAI's GPT-3.5-turbo model to answer chess-related questions. The chatbot utilizes a FAISS vector store for efficient document retrieval, combining retrieved information with the language model to generate accurate responses. Key features include:
+  - Interactive chat interface for chess-related queries
+  - Efficient document retrieval using FAISS vector store
+  - Integration of retrieved documents with GPT-3.5-turbo for contextual responses
+  - Custom UI with tailored images and backgrounds
+  - Deployment on Streamlit for easy access and interaction
+
+- **Technologies Used**: OpenAI API, FAISS, Streamlit, Python
+
+- **Live Demo**: [Chess Tutor Chatbot](https://chesstutor.streamlit.app)
+
+- **Additional Info**: [About Page](https://chesstutor.streamlit.app/About)
+
+- **GitHub Repository**: [Chess Tutor Chatbot](https://github.com/MaartenKnaepen/chesstutor)
+
+This project demonstrates my ability to integrate advanced AI models with efficient data retrieval systems, create user-friendly interfaces, and deploy functional AI applications.
 
 ### Metal Classifier Project
 - **Description**: This project demonstrates my proficiency in deep learning and data scraping. It involves training a deep learning model to classify metal music samples into different subgenres using mel spectrograms. The project also includes exploratory data analysis and validation methods.
@@ -45,9 +66,6 @@ I hold a master's degree, as evidenced by my thesis focusing on the application 
 - **Description**: Project Wiwino involved exploratory data analysis (EDA) on a Vivino dataset along with a presentation of the results. This project showcases my ability to derive insights from data and effectively communicate findings.
 - **Link**: [Project Wiwino](https://github.com/MaartenKnaepen/wiwino)
 
-### Image Generator and Generate Art
-- **Description**: These projects focus on experimenting with Deep Convolutional Generative Adversarial Networks (DCGAN) for image generation. They highlight my interest and exploration in generative models.
-- **Links**: [Image Generator](https://github.com/MaartenKnaepen/image-generator) and [Generate Art](https://github.com/MaartenKnaepen/generate-art)
 
 ### Immo-Eliza
 - **Description**: Immo-Eliza is a series of repositories related to a project involving scraping data from Immoweb, analyzing it, generating models, and eventually deploying them. These repositories showcase my end-to-end project development skills.
